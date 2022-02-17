@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 Se agrega más contenido
-Modificado desde GitHub, y una nueva prueba
-Más contenido agregado desde GitHub
+<<<<<<< HEAD
+Modificado desde GitHub, y una antigua nueva prueba luego de cambios
 =======
-desde GitHub
+Modificado desde GitHub, y nueva prueba con conflicto2
+>>>>>>> 13e5f62391618a3784cba2bf7489c3cc480923ee
 Más contenido agregado desde GitHub
->>>>>>> 6445c0e3816355e487a53ca6d7aba8ecf972b56e
+conflicto 2
