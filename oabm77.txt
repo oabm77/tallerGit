@@ -2,3 +2,4 @@ Se agrega más contenido
 Modificado desde GitHub, y nueva prueba con conflicto2
 Más contenido agregado desde GitHub
 conflicto 2
+en rama develop
