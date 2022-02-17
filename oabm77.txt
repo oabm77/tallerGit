@@ -1,3 +1,4 @@
 Se agrega más contenido
-Modificado desde GitHub, y una nueva prueba
+Modificado desde GitHub, y una antigua nueva prueba luego de cambios
 Más contenido agregado desde GitHub
+conflicto 2
