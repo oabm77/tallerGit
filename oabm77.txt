@@ -1,4 +1,5 @@
 Se agrega más contenido
 Modificado desde GitHub, y nueva prueba con conflicto2
+Omar semillero
 Más contenido agregado desde GitHub
 conflicto 2
